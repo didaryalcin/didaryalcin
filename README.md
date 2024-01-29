@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Didar YALÇIN</h1>
-<h3 align="center">Design Model Assistant</h3>
+<h3 align="center"> Software Developer </h3>
 
-- 🔭 I’m currently working on **Med Marine**
+- 🔭 I am currently receiving training at Workintech to become a Full Stack Developer.**
 
 - 📫 How to reach me **ddrylcn@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/didar-yalçın-0ba774137" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="didar-yalçın-0ba774137" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/didaryalcin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="didar-yalçın-0ba774137" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
